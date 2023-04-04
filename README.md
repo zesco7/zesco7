@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. iOS개발자가 되고 싶은 장태환입니다. 👋
 
 <!--
 **zesco7/zesco7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
